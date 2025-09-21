@@ -1,0 +1,19 @@
+{
+    "cupos": {
+        "carro": 50,
+        "moto": 79,
+        "bici": 20
+    },
+    "vehiculos": [
+        {
+            "placa": "AGL31H",
+            "tipo": "moto",
+            "hora_entrada": "2025-09-21 17:31:17",
+            "cliente": "normal",
+            "visitas": 1,
+            "lat": 6.25223860897397,
+            "lon": -75.56198191337444
+        }
+    ],
+    "historial": []
+}
